@@ -10,18 +10,18 @@
 </p>
 
 <p align="center">
-  Hey, 
-  my name is André and I'm a passionate medical informatics student at UMIT Tyrol. Additionally, I completed training as a board certified radiographer with work experience as e.g. the commissioned CT lead radiographer at Charité Berlin - one of the largest radiology departments in Europe. Currently I am working as a Junior Research Associate in the field of medical imaging, where I mainly perform data engineering tasks on radiological DICOM images.
+Hey, 
+my name is André and I'm a passionate medical informatics student at UMIT Tyrol. Additionally, I completed training as a board certified radiographer with work experience as e.g. the commissioned CT lead radiographer at Charité Berlin - one of the largest radiology departments in Europe. Currently I am working as a Junior Research Associate in the field of medical imaging, where I mainly perform data engineering tasks on radiological DICOM images.
 </p>
 
 ---
-<br>
+
 ## 💼 Latest job updates:
 
 - **UMIT Tyrol**: Graduate student (MSc.) in medical informatics (Oct 2024 - Present)
 - **Medical School Hannover - PLRI**: Junior Research Associate in medical imaging informatics. Member of the HiGHmed junior research group iXplain_CDS, lead by Dr. Dominik Wolff (May 2024 - Present)
 - **Medical School Hannover - PLRI**: Intern and research assistant in the field of signal processing. Machine learning algorithms were utilized for human activity recognition based on head-worn accelerometer measurements. Thesis: "_Using a head-mounted inertial sensor to determine physical activity based on machine learning_" (Sept 2023 - Apr 2024)
- ... visit LinkedIn for more!
+- ... visit LinkedIn for more!
 ## 🛠 Tech Stack
 
 
@@ -40,5 +40,4 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-  
 </p>
